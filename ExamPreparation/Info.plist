@@ -6,6 +6,12 @@
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
+        <key>UIAppFonts</key>
+        <array>
+            <string>RobotoSlab-Regular.otf</string>
+            <string>RobotoSlab-Bold.otf</string>
+            <string>RobotoSlab-Light.otf</string>
+        </array>
 		<key>UISceneConfigurations</key>
 		<dict>
 			<key>UIWindowSceneSessionRoleApplication</key>

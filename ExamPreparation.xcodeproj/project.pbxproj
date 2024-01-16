@@ -9,13 +9,17 @@
 /* Begin PBXBuildFile section */
 		3BAF2D6A2B5584A700EC4D45 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BAF2D692B5584A700EC4D45 /* AppDelegate.swift */; };
 		3BAF2D6C2B5584A700EC4D45 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BAF2D6B2B5584A700EC4D45 /* SceneDelegate.swift */; };
-		3BAF2D6E2B5584A700EC4D45 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BAF2D6D2B5584A700EC4D45 /* ViewController.swift */; };
+		3BAF2D6E2B5584A700EC4D45 /* InitialController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BAF2D6D2B5584A700EC4D45 /* InitialController.swift */; };
 		3BAF2D712B5584A700EC4D45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BAF2D6F2B5584A700EC4D45 /* Main.storyboard */; };
 		3BAF2D732B5584A800EC4D45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BAF2D722B5584A800EC4D45 /* Assets.xcassets */; };
 		3BAF2D762B5584A800EC4D45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BAF2D742B5584A800EC4D45 /* LaunchScreen.storyboard */; };
 		3BAF2D812B5584A800EC4D45 /* ExamPreparationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BAF2D802B5584A800EC4D45 /* ExamPreparationTests.swift */; };
 		3BAF2D8B2B5584A800EC4D45 /* ExamPreparationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BAF2D8A2B5584A800EC4D45 /* ExamPreparationUITests.swift */; };
 		3BAF2D8D2B5584A800EC4D45 /* ExamPreparationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BAF2D8C2B5584A800EC4D45 /* ExamPreparationUITestsLaunchTests.swift */; };
+		3BD703952B56E6CE00EFB807 /* RobotoSlab-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3BD703922B56E6CE00EFB807 /* RobotoSlab-Regular.otf */; };
+		3BD703962B56E6CE00EFB807 /* RobotoSlab-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3BD703932B56E6CE00EFB807 /* RobotoSlab-Light.otf */; };
+		3BD703972B56E6CE00EFB807 /* RobotoSlab-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3BD703942B56E6CE00EFB807 /* RobotoSlab-Bold.otf */; };
+		3BD703A72B56F03C00EFB807 /* fish.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BD703A62B56F03C00EFB807 /* fish.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +43,7 @@
 		3BAF2D662B5584A700EC4D45 /* ExamPreparation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExamPreparation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BAF2D692B5584A700EC4D45 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3BAF2D6B2B5584A700EC4D45 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		3BAF2D6D2B5584A700EC4D45 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3BAF2D6D2B5584A700EC4D45 /* InitialController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialController.swift; sourceTree = "<group>"; };
 		3BAF2D702B5584A700EC4D45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3BAF2D722B5584A800EC4D45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BAF2D752B5584A800EC4D45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +53,10 @@
 		3BAF2D862B5584A800EC4D45 /* ExamPreparationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExamPreparationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BAF2D8A2B5584A800EC4D45 /* ExamPreparationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamPreparationUITests.swift; sourceTree = "<group>"; };
 		3BAF2D8C2B5584A800EC4D45 /* ExamPreparationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamPreparationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3BD703922B56E6CE00EFB807 /* RobotoSlab-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoSlab-Regular.otf"; sourceTree = "<group>"; };
+		3BD703932B56E6CE00EFB807 /* RobotoSlab-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoSlab-Light.otf"; sourceTree = "<group>"; };
+		3BD703942B56E6CE00EFB807 /* RobotoSlab-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoSlab-Bold.otf"; sourceTree = "<group>"; };
+		3BD703A62B56F03C00EFB807 /* fish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fish.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,9 +107,11 @@
 		3BAF2D682B5584A700EC4D45 /* ExamPreparation */ = {
 			isa = PBXGroup;
 			children = (
+				3BD703A62B56F03C00EFB807 /* fish.png */,
+				3BD7037E2B56E06500EFB807 /* roboto-slab */,
 				3BAF2D692B5584A700EC4D45 /* AppDelegate.swift */,
 				3BAF2D6B2B5584A700EC4D45 /* SceneDelegate.swift */,
-				3BAF2D6D2B5584A700EC4D45 /* ViewController.swift */,
+				3BAF2D6D2B5584A700EC4D45 /* InitialController.swift */,
 				3BAF2D6F2B5584A700EC4D45 /* Main.storyboard */,
 				3BAF2D722B5584A800EC4D45 /* Assets.xcassets */,
 				3BAF2D742B5584A800EC4D45 /* LaunchScreen.storyboard */,
@@ -125,6 +135,16 @@
 				3BAF2D8C2B5584A800EC4D45 /* ExamPreparationUITestsLaunchTests.swift */,
 			);
 			path = ExamPreparationUITests;
+			sourceTree = "<group>";
+		};
+		3BD7037E2B56E06500EFB807 /* roboto-slab */ = {
+			isa = PBXGroup;
+			children = (
+				3BD703942B56E6CE00EFB807 /* RobotoSlab-Bold.otf */,
+				3BD703932B56E6CE00EFB807 /* RobotoSlab-Light.otf */,
+				3BD703922B56E6CE00EFB807 /* RobotoSlab-Regular.otf */,
+			);
+			path = "roboto-slab";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,8 +252,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				3BAF2D762B5584A800EC4D45 /* LaunchScreen.storyboard in Resources */,
+				3BD703962B56E6CE00EFB807 /* RobotoSlab-Light.otf in Resources */,
 				3BAF2D732B5584A800EC4D45 /* Assets.xcassets in Resources */,
 				3BAF2D712B5584A700EC4D45 /* Main.storyboard in Resources */,
+				3BD703A72B56F03C00EFB807 /* fish.png in Resources */,
+				3BD703952B56E6CE00EFB807 /* RobotoSlab-Regular.otf in Resources */,
+				3BD703972B56E6CE00EFB807 /* RobotoSlab-Bold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,7 +282,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3BAF2D6E2B5584A700EC4D45 /* ViewController.swift in Sources */,
+				3BAF2D6E2B5584A700EC4D45 /* InitialController.swift in Sources */,
 				3BAF2D6A2B5584A700EC4D45 /* AppDelegate.swift in Sources */,
 				3BAF2D6C2B5584A700EC4D45 /* SceneDelegate.swift in Sources */,
 			);
@@ -449,6 +473,7 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationLandscapeRight;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -462,7 +487,7 @@
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -480,6 +505,7 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationLandscapeRight;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -493,7 +519,7 @@
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
