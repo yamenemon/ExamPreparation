@@ -19,7 +19,6 @@
 		3BD703952B56E6CE00EFB807 /* RobotoSlab-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3BD703922B56E6CE00EFB807 /* RobotoSlab-Regular.otf */; };
 		3BD703962B56E6CE00EFB807 /* RobotoSlab-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3BD703932B56E6CE00EFB807 /* RobotoSlab-Light.otf */; };
 		3BD703972B56E6CE00EFB807 /* RobotoSlab-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3BD703942B56E6CE00EFB807 /* RobotoSlab-Bold.otf */; };
-		3BD703A72B56F03C00EFB807 /* fish.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BD703A62B56F03C00EFB807 /* fish.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,7 +55,6 @@
 		3BD703922B56E6CE00EFB807 /* RobotoSlab-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoSlab-Regular.otf"; sourceTree = "<group>"; };
 		3BD703932B56E6CE00EFB807 /* RobotoSlab-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoSlab-Light.otf"; sourceTree = "<group>"; };
 		3BD703942B56E6CE00EFB807 /* RobotoSlab-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoSlab-Bold.otf"; sourceTree = "<group>"; };
-		3BD703A62B56F03C00EFB807 /* fish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fish.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,7 +105,6 @@
 		3BAF2D682B5584A700EC4D45 /* ExamPreparation */ = {
 			isa = PBXGroup;
 			children = (
-				3BD703A62B56F03C00EFB807 /* fish.png */,
 				3BD7037E2B56E06500EFB807 /* roboto-slab */,
 				3BAF2D692B5584A700EC4D45 /* AppDelegate.swift */,
 				3BAF2D6B2B5584A700EC4D45 /* SceneDelegate.swift */,
@@ -255,7 +252,6 @@
 				3BD703962B56E6CE00EFB807 /* RobotoSlab-Light.otf in Resources */,
 				3BAF2D732B5584A800EC4D45 /* Assets.xcassets in Resources */,
 				3BAF2D712B5584A700EC4D45 /* Main.storyboard in Resources */,
-				3BD703A72B56F03C00EFB807 /* fish.png in Resources */,
 				3BD703952B56E6CE00EFB807 /* RobotoSlab-Regular.otf in Resources */,
 				3BD703972B56E6CE00EFB807 /* RobotoSlab-Bold.otf in Resources */,
 			);
